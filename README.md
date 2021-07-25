@@ -1,3 +1,7 @@
+https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/
+
+https://app.supabase.io/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
